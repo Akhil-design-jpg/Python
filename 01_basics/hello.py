@@ -19,3 +19,8 @@ def percent_calculate(number,whole):
 # 2f - 2 float (2 decimal units)
 result = percent_calculate(20,200)
 print(result)
+
+
+spend = 3500;
+income = (3500/7)*8;
+print('final income is Rs',income)
