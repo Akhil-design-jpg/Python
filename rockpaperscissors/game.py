@@ -27,7 +27,7 @@ def rock_paper_scissor():
         else:
             print("computer win :)")
 
-        play_again = input("Want to try your luck again ? (yes/no)").strip().lower()
+        play_again = input("Want to try your luck again ? (yes/no)").strip().lower() # remove any space strip()
         if play_again == "yes":
             print("Cool")
             continue
