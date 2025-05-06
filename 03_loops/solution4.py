@@ -14,3 +14,8 @@ print(reversed_str)
 # Iteration 4:    reverse = 'h'   → reversed_str = 'h' + 'tyP' = 'htyP'
 # Iteration 5:    reverse = 'o'   → reversed_str = 'o' + 'htyP' = 'ohtyP'
 # Iteration 6:    reverse = 'n'   → reversed_str = 'n' + 'ohtyP' = 'nohtyP'
+
+# Add file in an existing repo
+# git remote add origin https://github.com/Akhil-design-jpg/Python.git
+# git branch -M main
+# git push -u origin main
